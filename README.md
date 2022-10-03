@@ -1,8 +1,8 @@
-### Telegram Kelime Oyunu @evrendestek 
+### Telegram Kelime Oyunu 
 📝
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Efsane2323/kelime)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/murtixc/kelime)
 
 <h4>🔺 Okteto ile Kurulum 🔻</h4> 
 
