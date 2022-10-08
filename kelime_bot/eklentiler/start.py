@@ -11,11 +11,11 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 keyboard = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton("➕ Grubuna Ekle", url=f"http://t.me/kelime_evrenibot?startgroup=new")
+        InlineKeyboardButton("➕ Grubuna Ekle", url=f"http://t.me/LuizKelimeevreni_bot?startgroup=new")
     ],
     [
-        InlineKeyboardButton("🇹🇷 Sahibim", url="t.me/hababammsinifi"),
-        InlineKeyboardButton("💬 Chat", url="t.me/hababammsinifi"),
+        InlineKeyboardButton("🇹🇷 Sahibim", url="t.me/serserizarog"),
+        InlineKeyboardButton("💬 Chat", url="t.me/SohbetmaxTR"),
     ]
 ])
 
