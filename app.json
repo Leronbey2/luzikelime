@@ -8,8 +8,8 @@
         "bot"
     ],
     "repository": "https://github.com/Leronbey2/Luzikelime",
-    "website": "https://t.me/SohbetMaxTR",
-    "success_url": "https://t.me/luizSupport",
+    "website":
+    "success_url":
     "env": {
         "API_ID": { ""
             "description": "Get this value from my.telegram.org"
