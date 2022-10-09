@@ -1,5 +1,5 @@
 {
-    "name": "kelime evreni",
+    "name": "Luiz Kelime Evreni",
     "description": "Telegram kelime bilgi oyun",
     "keywords": [
         "telegram",
@@ -7,9 +7,9 @@
         "kelime",
         "bot"
     ],
-    "repository": "https://github.com/Efsane2323/kelime",
-    "website": "https://t.me/hababammsinifi",
-    "success_url": "https://t.me/evrendestek",
+    "repository": "https://github.com/Leronbey2/Luzikelime",
+    "website": "https://t.me/SohbetMaxTR",
+    "success_url": "https://t.me/luizSupport",
     "env": {
         "API_ID": { ""
             "description": "Get this value from my.telegram.org"
